@@ -1,5 +1,5 @@
 # hms-python
-A simple hospital management system with Admin dashboard, auth system and CRUD operations as well as some data tables functions like export as pdf, excel file..
+
 --How to clone and run the project--:
 
 Step 1: Install the virtual environment by running the following command:
