@@ -1,0 +1,8 @@
+#homepage {
+    color: aqua;
+}
+
+hr.rounded {
+    border-top: 10px solid lightblue;
+    border-radius: 5px;
+}
